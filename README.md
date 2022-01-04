@@ -1,4 +1,4 @@
-# City Weather
+# Temperature Calculator
 
 ## How to use
 
